@@ -14,7 +14,7 @@ The outputs are designed for interpretation via an HTML file, providing an inter
 
 ## Features
 1. **Data Cleaning**:
-   - Imported data from a CSV file.
+   - Imported data from the 'Airbnb_Analytics_Dataset.csv' file.
    - Identified and imputed missing values using column means.
 
 2. **Exploratory Data Analysis**:
